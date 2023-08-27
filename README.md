@@ -17,9 +17,9 @@ Here are the specifics of this implementation:
 - Model accuracy was calculated based on the macro F1 score 
 ------
 #Project Structure
-- 'data/':  This directory contains data provided to us for Training and Testing our model.
-- 'docs/':  This directory contains the schema documentation for the FARS dataset
-- 'notebooks/': This direcotry contains the Jupiter notebooks we used to build and test our model.
+- `data/`:  This directory contains data provided to us for Training and Testing our model.
+- `docs/`:  This directory contains the schema documentation for the FARS dataset
+- `notebooks/`: This direcotry contains the Jupiter notebooks we used to build and test our model.
 ------
 #License
 ------
